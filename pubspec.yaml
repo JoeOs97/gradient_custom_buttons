@@ -1,7 +1,7 @@
 name: gradiant_different_size_buttons
 description: " Custom Gradient Different Size Buttons"
 version: 0.0.1
-homepage:
+homepage: https://github.com/JoeOs97/gradient_custom_buttons.git
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
