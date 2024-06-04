@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:circle_button/circle_button.dart';
+import 'package:gradiant_different_size_buttons/gradiant_different_size_buttons.dart';
 
 void main() {
   runApp(const MyApp());
